@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "309618271755",
+    "firebase_url": "https://groccers-8f1c3.firebaseio.com",
+    "project_id": "groccers-8f1c3",
+    "storage_bucket": "groccers-8f1c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309618271755:android:e8507239881375c0b5c90e",
+        "android_client_info": {
+          "package_name": "com.example.groccers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309618271755-qpfmcm2ukqg9vm7fbhjtpfiblu2871eh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLNra2KGkXf3C4qWlc3t9pALosC2qdrSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309618271755-qpfmcm2ukqg9vm7fbhjtpfiblu2871eh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
